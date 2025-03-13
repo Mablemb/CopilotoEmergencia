@@ -3,3 +3,4 @@ server.py
 setupClaude.sh
 setupClaudeWindows.bat
 venv
+*.gguf
