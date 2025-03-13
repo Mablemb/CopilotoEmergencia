@@ -1,2 +1,0 @@
-ID,Descrição,Tempo Resposta (s),Resposta
-1,Dor Torácica Aguda,0,"Erro na requisição: HTTPConnectionPool(host='127.0.0.1', port=5000): Read timed out. (read timeout=60)"
